@@ -31,7 +31,7 @@
 
 <div align="left">
   <a href="https://gabrielborato.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
+    <img src="https://img.shields.io/static/v1?message=Portfólio&logo=about.me&label=&color=00A98F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo" />
   </a>
   <a href="https://www.instagram.com/gabrieu_fb/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
