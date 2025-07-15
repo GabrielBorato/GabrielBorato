@@ -17,6 +17,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielBorato&layout=compact&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
+
 ---
 
 ### 🛠️ Technologies & Tools
