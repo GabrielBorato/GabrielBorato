@@ -50,7 +50,7 @@
 
 ### 📈 Visitors
 <div align="center">
-  <img src="https://profile-counter.glitch.me/GabrielBorato/count.svg?" />
+  <img src="https://komarev.com/ghpvc/?username=GabrielBorato&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 ---
